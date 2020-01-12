@@ -1,2 +1,2 @@
 # Machine_learning_imooc
- a notebook about the lessons of machine learning in imooc. 
+ a notebook about lessons of machine learning in imooc. 
