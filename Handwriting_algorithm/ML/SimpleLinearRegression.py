@@ -1,5 +1,6 @@
 import numpy as np
-from ML.metrics import r2_score
+
+from Handwriting_algorithm.ML.metrics import r2_score
 
 
 class SimpleLinearRegression:
